@@ -27,3 +27,5 @@ UG Graduate | Aspiring Python Full Stack Developer<br>Currently exploring opport
 [![](https://visitcount.itsvg.in/api?id= sivasankar0904&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# MY CONTRIBUTIONS
+<img alt="Snake animation" src="https://raw.githubusercontent.com/sivasankar0904/sivasankar0904/output/github-snake-dark.svg" />
